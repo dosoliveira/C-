@@ -15,5 +15,5 @@ Int main()
 	media = (nota1+nota2)/2
 	
 }
-Escrever para
+
 
