@@ -1,0 +1,19 @@
+*Média
+/* Váriáveis
+
+#include<iostream> /*inclui diretivas de entrada e saida
+#include <cmath>/*inclui diretivas das funções matematicas
+Using namespace std;
+Int main()
+{
+	int nota1, nota2;
+	float media;
+	cout<<"Qual é o valor da primeira nota?";
+	cin>>nota1;
+	cout<<"Qual é o valor da segunda nota?";
+	cin>>nota2;
+	media = (nota1+nota2)/2
+	
+}
+Escrever para
+
