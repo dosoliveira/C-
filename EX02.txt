@@ -1,0 +1,18 @@
+#include <stdio.h>
+int main()
+{
+    int a,b,result,resto; /*declaração de variaveis*/
+    printf("Digite o primeiro valor: ");
+    scanf("%d",&a);
+    printf("Digite o segundo valor: ");
+    scanf("%d",&b);
+    result=a/b;                 /*processamento*/
+    printf("\n O resultado é= %d. \n",result); /*saida*/
+    printf("Digite um novo número: ");
+    scanf("%d",&a);
+    printf("Digite um novo segundo número: ");
+    scanf("%d",&b);
+    resto=a%b;
+    printf("\n O resto da divisão é = %d. \n",resto);
+    return(0);
+}
